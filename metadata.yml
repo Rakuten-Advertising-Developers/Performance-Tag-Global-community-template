@@ -3,5 +3,5 @@ homepage: "https://rakutenadvertising.com/"
 documentation: "https://go.rakutenadvertising.com/hubfs/rakuten-advertising-performance-tag-gtm-template-integration-guide.pdf"
 versions:
   # Latest version
-  - sha: 88347abf1757192fdef50e8d3619da531157a2cf
+  - sha: f1edc0afb966aec08aabe780d7ea348113ea7fcd
     changeNotes: Initial release.
